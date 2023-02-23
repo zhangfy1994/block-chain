@@ -1,0 +1,20 @@
+{
+  "name": "block-chain",
+  "version": "1.0.0",
+  "description": "区块链学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangfy1994/block-chain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangfy1994/block-chain/issues"
+  },
+  "homepage": "https://github.com/zhangfy1994/block-chain#readme"
+}
